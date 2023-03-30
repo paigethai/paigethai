@@ -1,5 +1,5 @@
 <h1>Hi World, I'm Paige! 👩🏻‍💻</h1>
-<h2>Front-end Web Developer and Designer -- aspiring Creative Technologist ✨</h2>
+<h2>Front-end Web Developer and Designer, and sometimes a Project Manager ✨</h2>
 <p>I'm a skilled Front-end Web Developer and Web Designer. With 3+ years of experience in Project Management and a Professional Scrum Master (PSM I) certification, I have a strong foundation in managing and leading projects effectively.
 
 Currently, I'm enrolled in Juno College of Technology's Immersive Web Development Bootcamp to further refine my skills in HTML5, CSS3, SASS, JavaScript (ES6), and React. I'm also passionate about expanding my knowledge of web accessibility practices and responsive design, and always strive to ensure that my work is user-friendly and accessible to everyone.</p>
