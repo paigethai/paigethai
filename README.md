@@ -4,7 +4,7 @@
 
 Currently, I'm enrolled in Juno College of Technology's Immersive Web Development Bootcamp to further refine my skills in HTML5, CSS3, SASS, JavaScript (ES6), and React. I'm also passionate about expanding my knowledge of web accessibility practices and responsive design, and always strive to ensure that my work is user-friendly and accessible to everyone.</p>
 
-👩🏻‍💻 Front-end Web Developer and Web Designer with Project Management experience.
+👩🏻‍💻 Front-end Web Developer with Project Management experience.
 
 🌱 Broadening my understanding and expertise in **JavaScript, TypeScript, React, Next.js and MongoDB**. 
 
