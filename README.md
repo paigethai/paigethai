@@ -1,14 +1,8 @@
 <h1>Hi World, I'm Paige! 👩🏻‍💻</h1>
-<h2>Front-end Web Developer and sometimes a Project Manager ✨</h2>
-<p>I'm a skilled Front-end Web Developer. With 3+ years of experience in Project Management and a Professional Scrum Master (PSM I) certification, I have a strong foundation in managing and leading projects effectively.
+<h2>Project Manager and Scrum Master, but sometimes a Web Developer✨</h2>
+<p>With 5+ years of experience in Project Management and a Professional Scrum Master (PSM I) certification, I have a strong foundation in managing and leading projects effectively.
 
-Currently, I'm enrolled in Juno College of Technology's Immersive Web Development Bootcamp to further refine my skills in HTML5, CSS3, SASS, JavaScript (ES6), and React. I'm also passionate about expanding my knowledge of web accessibility practices and responsive design, and always strive to ensure that my work is user-friendly and accessible to everyone.</p>
-
-👩🏻‍💻 Front-end Web Developer with Project Management experience.
-
-🌱 Broadening my understanding and expertise in **JavaScript, TypeScript, React, Next.js and MongoDB**. 
-
-🔗 Checkout my portfolio! <a href="https://paigethai.com/">paigethai.com</a>
+Dynamic and results-driven Project Manager with 5+ years of experience delivering scalable creative and technical solutions across fast-paced environments in tech, e-commerce, and creative industries. Known for translating complex challenges into streamlined systems, improving delivery velocity, and enhancing team effectiveness. Adept at leading cross-disciplinary teams, implementing tools and workflows, and aligning operational strategy with business goals. Passionate about building people-centered processes that drive results and create lasting impact.</p>
 
 💌 Feel free to <a href="mailto:paigegiathai">get in touch</a>!
 
